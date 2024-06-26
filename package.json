@@ -1,5 +1,5 @@
 {
-  "name": "@changesets/action",
+  "name": "@agendalo-io/action",
   "version": "1.4.7",
   "main": "dist/index.js",
   "license": "MIT",
